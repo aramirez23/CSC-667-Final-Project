@@ -1,0 +1,25 @@
+.search-container {
+  position: absolute;
+  justify-content: right;
+  right: 16rem;
+  display: inline;
+}
+
+.search-category {
+  float: left;
+  padding-right: 0.5rem;
+}
+
+.search-button {
+  float: right;
+}
+
+.name {
+  position: absolute;
+  right: 4rem;
+}
+
+.account-menu-right {
+  position: absolute;
+  right: 8rem;
+}

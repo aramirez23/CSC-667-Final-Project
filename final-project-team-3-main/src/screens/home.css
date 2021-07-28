@@ -1,0 +1,19 @@
+.title {
+	margin-top: 20px;
+}
+
+.button {
+	background-color: none; 
+	color: black;
+	border: 1px solid lightgrey;
+	border-radius: 7px;
+	padding: 5px 20px;
+	text-align: center;
+	margin-bottom: 10px;
+	opacity: .8;
+	cursor: pointer;
+}
+
+.button:hover {
+	opacity: 1;
+}
